@@ -7,6 +7,8 @@ This machine learning project predicts the most suitable crop for a given soil c
 - Pandas, Scikit-learn
 - Streamlit
 - Jupyter Notebook / Google Colab
+## Live Demo 
+- https://croppredictionproject-3rmtc27oneitvbkfnsoug8.streamlit.app/
 
 ## 📂 How to Run
 1. Clone the repo or download the folder
