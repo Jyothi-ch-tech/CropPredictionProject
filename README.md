@@ -70,5 +70,11 @@ streamlit run app.py
 
 ---
 
+## Demo 
+
+https://croppredictionproject-3rmtc27oneitvbkfnsoug8.streamlit.app/ 
+
+---
+
 ⭐ If you like this project, give it a star!
 
